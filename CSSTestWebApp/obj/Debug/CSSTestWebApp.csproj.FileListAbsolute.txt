@@ -1,0 +1,14 @@
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.dll.config
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.dll
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.pdb
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.csprojAssemblyReference.cache
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.csproj.CoreCompileInputs.cache
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.dll
+C:\Users\n.mishchenko\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.pdb
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.dll.config
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.dll
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.pdb
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.csproj.CoreCompileInputs.cache
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.dll
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.pdb
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Debug\CSSTestWebApp.csprojAssemblyReference.cache

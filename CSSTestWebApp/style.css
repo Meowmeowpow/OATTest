@@ -1,0 +1,80 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    max-width: 1200px;
+    margin:auto;
+    padding:30px 0 70px 0;
+}
+
+.taskText {
+    padding: 10px 0;
+}
+
+.taskContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxOne, .boxTwo {
+    width: 49.5%;
+}
+
+.task {
+    display: flex;
+    justify-content: space-between;
+}
+
+fieldset {
+    padding: 10px;
+    height: 100%;
+}
+
+.containerBtn button {
+    width: 100%;
+}
+
+.task {
+    padding: 5px 0;
+}
+
+.taskBtn {
+    width: 24px;
+    height: 24px;
+}
+
+select {
+    width: 200px;
+}
+
+.containerInputTask {
+    display: flex;
+    flex-direction: column;
+}
+
+.resumeContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+    .resumeContainer .boxTwo {
+        padding: 0 0 0 10px;
+    }
+
+    .resumeContainer .boxOne {
+        padding: 0 10px 0 0;
+    }
+
+.container .sendBtn {
+    margin: 10px 0 0 0;
+    width: 100%;
+}
+
+#validationSummary {
+    color: red;
+}

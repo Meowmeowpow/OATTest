@@ -1,0 +1,7 @@
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.dll.config
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.dll
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\bin\CSSTestWebApp.pdb
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Release\CSSTestWebApp.csprojAssemblyReference.cache
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Release\CSSTestWebApp.csproj.CoreCompileInputs.cache
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Release\CSSTestWebApp.dll
+C:\Users\-. .- - .- ---- .-\source\repos\CSSTestWebApp\CSSTestWebApp\obj\Release\CSSTestWebApp.pdb
